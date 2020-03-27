@@ -1,6 +1,6 @@
 # This is a basic workflow from the Actions template
 
-name: hello-actions
+name: export-conda-env
 
 # Controls when the action will run (here whenever README.md is modified in the remote repo)
 # 
